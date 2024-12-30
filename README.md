@@ -18,6 +18,6 @@ AI Engineer 윤웅상입니다
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Xcode](https://img.shields.io/badge/xcode-147EFB.svg?&style=for-the-badge&logo=xcode&logoColor=white) 
 
-```markdown
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
-```
+
