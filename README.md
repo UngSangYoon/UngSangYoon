@@ -6,7 +6,7 @@
 AI Engineer 지망생 윤웅상입니다
 
 ## 경력
-[홍익대학교 NLP lab 2B3E](https://iml.hongik.ac.kr/index.html)(2023/06 ~ )
+[홍익대학교 NLP lab 2B3E](https://iml.hongik.ac.kr/index.html) (2023/06 ~ )
 
 
 ### 🦾 Skills
