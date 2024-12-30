@@ -19,5 +19,5 @@ AI Engineer 윤웅상입니다
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Xcode](https://img.shields.io/badge/xcode-147EFB.svg?&style=for-the-badge&logo=xcode&logoColor=white) 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UngSangYoon&layout=compact)
 
