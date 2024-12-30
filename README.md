@@ -14,5 +14,6 @@
 
 
 
+
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=yws804)](https://solved.ac/profile/yws804)
