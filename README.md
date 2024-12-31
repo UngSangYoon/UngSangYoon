@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=Ung+Sang's+github%21&fontSize=60&fontAlign=50&fontAlignY=50&desc=Developer&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=Ung+Sang's+github%21&fontSize=60&fontAlign=70&fontAlignY=50&desc=Developer&descSize=20&descAlign=50&descAlignY=60)
 ## Hi 👋  ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUngSangYoon&edge_flat=false&title=hits)
 - Email: yws804@naver.com
 - GitHub: [UngSangYoon](https://github.com/UngSangYoon/UngSangYoon)
