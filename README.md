@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=Hello+World%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=60)
 ## Hi 👋  ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUngSangYoon&edge_flat=false&title=hits)
 - Email: yws804@naver.com
-- GitHub: [/github.com/UngSangYoon]((https://github.com/UngSangYoon/UngSangYoon)
+- GitHub: [/github.com/UngSangYoon](https://github.com/UngSangYoon/UngSangYoon)
 
 AI Engineer 지망생 윤웅상입니다
 
