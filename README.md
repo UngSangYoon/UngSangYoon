@@ -2,6 +2,7 @@
 ## Hi 👋  ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUngSangYoon&edge_flat=false&title=hits)
 - Email: yws804@naver.com
 - GitHub: [UngSangYoon](https://github.com/UngSangYoon/UngSangYoon)
+- Huggingface [KyleY](https://huggingface.co/KyleY)
 
 AI Engineer 지망생 윤웅상입니다
 
