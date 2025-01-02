@@ -10,6 +10,9 @@ AI Engineer 지망생 윤웅상입니다
 
 
 ### 🦾 Skills
+- LLM Fine-Tuning
+- RAG pipeline construction
+
 **🧑‍💻 Lang and Frameworks**
 
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=swift&logoColor=white) 
