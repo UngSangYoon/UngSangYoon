@@ -11,7 +11,7 @@ AI Engineer 지망생 윤웅상입니다
 
 ### 🦾 Skills
 - LLM Fine-Tuning
-- RAG pipeline construction
+- Building RAG pipeline
 
 **🧑‍💻 Lang and Frameworks**
 
