@@ -30,6 +30,4 @@ AI Engineer 지망생 윤웅상입니다
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UngSangYoon&layout=compact)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yws804)](https://solved.ac/yws804/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UngSangYoon&layout=compact)    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yws804)](https://solved.ac/yws804/)
