@@ -4,7 +4,7 @@
 - GitHub: [UngSangYoon](https://github.com/UngSangYoon/UngSangYoon)
 - Huggingface [KyleY](https://huggingface.co/KyleY)
 
-AI Engineer 지망생 윤웅상입니다
+AI/ML Engineer 지망생 윤웅상입니다
 
 ### 경력
 [홍익대학교 NLP lab 2B3E](https://iml.hongik.ac.kr/index.html) (2023/06 ~ )
