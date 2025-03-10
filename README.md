@@ -10,7 +10,8 @@ AI/ML Engineer 지망생 윤웅상입니다
 [홍익대학교 NLP lab 2B3E](https://iml.hongik.ac.kr/index.html) (2023/06 ~ )
 
 
-### 🦾 Skills
+### 🦾 Skills & Interests
+- sLLM / Pruning, Quantization, Knowledge Distillation
 - LLM Fine-Tuning
 - Building RAG pipeline
 
