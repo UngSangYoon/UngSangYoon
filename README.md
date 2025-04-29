@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=Ung+Sang's+github&fontSize=60&fontAlign=50&fontAlignY=40&desc=Developer&descSize=20&descAlign=50&descAlignY=60)
-## Hi 👋  ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUngSangYoon&edge_flat=false&title=hits)
+## Hi 👋
 - Email: yws804@naver.com
 - GitHub: [UngSangYoon](https://github.com/UngSangYoon/UngSangYoon)
 - Huggingface [KyleY](https://huggingface.co/KyleY)
