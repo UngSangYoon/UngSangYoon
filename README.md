@@ -25,8 +25,7 @@ AI 개발자 지망생 윤웅상입니다
 
 ![Google Cloud](https://img.shields.io/badge/googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white) ![langchain](https://img.shields.io/badge/LangChain-1C3C3C.svg?&style=for-the-badge&logo=LangChain&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Xcode](https://img.shields.io/badge/xcode-147EFB.svg?&style=for-the-badge&logo=xcode&logoColor=white) 
+![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Xcode](https://img.shields.io/badge/xcode-147EFB.svg?&style=for-the-badge&logo=xcode&logoColor=white) 
 
 
 
